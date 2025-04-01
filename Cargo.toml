@@ -1,0 +1,8 @@
+[package]
+name = "rush3d"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22"  # 包含 egui
+egui = "0.22"
